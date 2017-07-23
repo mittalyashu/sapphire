@@ -45,8 +45,8 @@ Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best 
 
 ### Yashu Mittal
 
-- Web site: [Yashu Mittal Profile](http://profiles.codecarrot.net/yashumittal)
-- Twitter: [MittalYashu77](https://www.twitter.com/mittalyashu77)
+- Website: [Yashu Mittal Profile](http://profiles.codecarrot.net/yashumittal)
+- Twitter: [Mittalyashu77](https://www.twitter.com/mittalyashu77)
 
 ## License
 Sapphire is released under [MIT License](license.md).

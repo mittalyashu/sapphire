@@ -7,7 +7,7 @@ Sapphire is a minimal theme created for Jekyll. The main purpose of Sapphire is 
 
 For further details on Sapphire, please visit the [repository on Github](https://github.com/).
 
-![Sapphire](img/sapphire01.png){: .img_shadow }
+![Sapphire](img/sapphire01.PNG){: .img_shadow }
 
 ### Setup
 Sapphire may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/).
