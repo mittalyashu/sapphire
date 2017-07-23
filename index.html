@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<!-- Posts -->
+<ul id="posts">
+
+	{% for post in paginator.posts %}
+
+	  <li class="post">
+	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
+			<div class="author">
+				<img src="img/man.png" alt="">
+				<span>Author</span>
+	  		<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
+			</div>
+			<img src="{{ post.image }}" alt="{{ post.title }}">
+	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+			<a class="read-more-btn" href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Read More</a>
+	  </li>
+
+    {% endfor %}
+
+</ul>

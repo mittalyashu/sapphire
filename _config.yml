@@ -1,0 +1,38 @@
+# Site settings
+title: Sapphire | A simple Jekyll blogging template
+description: "A minimal blog template, build with Jekyll."
+url: "https://mr-bucket.github.io/jekyll/sapphire"
+author:
+  name: "Yashu Mittal"
+  email: "contact@codecarrot.net"
+  url: "http://www.codecarrot.net"
+
+# Build settings
+baseurl: /sapphire # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+
+# Custom variables
+version: "1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
