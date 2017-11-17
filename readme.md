@@ -45,8 +45,14 @@ Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best 
 
 ### Yashu Mittal
 
-- Website: [Yashu Mittal Profile](http://profiles.codecarrot.net/yashumittal)
-- Twitter: [Mittalyashu77](https://www.twitter.com/mittalyashu77)
+- Github: [Yashu Mittal Profile](http://www.github.com/mittalyashu)
+- Twitter: [@mittalyashu77](https://www.twitter.com/mittalyashu77)
 
 ## License
 Sapphire is released under [MIT License](license.md).
+
+## Share The Love
+
+I've put a lot of time and effort into making **Sapphire**, a jekyll template. If you love it, you can buy me a coffee. I promise it will be a good investment 😉.
+
+**Donate with:** [PayPal](https://www.paypal.me/mittalyashu).
