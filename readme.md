@@ -51,7 +51,7 @@ Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best 
 ## License
 Sapphire is released under [MIT License](license.md).
 
-## Help me! To continue manange this project
+## Help me! To continue manage this project
 
 I've put a lot of time and effort into making **Sapphire**, a jekyll template. If you love it, you can buy me a coffee. I promise it will be a good investment 😉.
 
